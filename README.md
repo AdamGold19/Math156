@@ -4,7 +4,7 @@ This project uses a **Convolutional Neural Network (CNN)** to classify human emo
 
 ---
 
-## 🗂 Key Files  
+## Key Files  
 
 - **`project.ipynb`** – Jupyter Notebook containing the CNN model, training process, and evaluation.  
 - **`archive.zip`** – Dataset containing images of facial expressions for training and testing.  
